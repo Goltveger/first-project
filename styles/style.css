@@ -9,9 +9,10 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-div {
+
+/*div {
     border: 1px solid red;
-}
+}*/
 
 body {
     margin: 0;
@@ -70,7 +71,6 @@ body {
     font-weight: normal;
     text-align: left;
     background-size: cover;
-    text-align: left;
     background-repeat: no-repeat;
     top: 500px;
 }
@@ -114,7 +114,7 @@ a {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    width: 80%
+    width: 80%;
 }
 
 .two-columns__brief {
@@ -164,7 +164,7 @@ a {
     justify-content: center;
 }
 
-.digits__section-title_h2 {
+.digits__section-title_content {
     margin: 0;
     padding: 0;
 }
@@ -275,7 +275,6 @@ table {
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
-    margin: auto;
     z-index: 1;
 }
 
@@ -285,7 +284,7 @@ table {
     display: flex;
     position: absolute;
     left: 0px;
-    bottom: 0px
+    bottom: 0px;
 }
 
 .kaufman {
