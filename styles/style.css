@@ -389,12 +389,6 @@ table {
     align-items: flex-start;
 }
 
-.logo {
-    display: flex;
-    background-image: url(../images/logo_place_footer.svg);
-    background-repeat: no-repeat;
-}
-
 .logo_place_footer {
     position: relative;
     width: 183px;
